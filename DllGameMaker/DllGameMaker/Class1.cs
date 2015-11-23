@@ -7,6 +7,6 @@ namespace DllGameMaker
 {
     public class Class1
     {
-        //Hola amigos 
+        //Hello my friends
     }
 }
