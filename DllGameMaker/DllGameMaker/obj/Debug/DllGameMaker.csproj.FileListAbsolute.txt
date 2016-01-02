@@ -3,3 +3,4 @@ C:\dev\DllGameMaker\DllGameMaker\DllGameMaker\bin\Debug\DllGameMaker.pdb
 C:\dev\DllGameMaker\DllGameMaker\DllGameMaker\obj\Debug\DllGameMaker.csprojResolveAssemblyReference.cache
 C:\dev\DllGameMaker\DllGameMaker\DllGameMaker\obj\Debug\DllGameMaker.dll
 C:\dev\DllGameMaker\DllGameMaker\DllGameMaker\obj\Debug\DllGameMaker.pdb
+C:\dev\DllGameMaker\DllGameMaker\DllGameMaker\bin\Debug\OpenTK.dll

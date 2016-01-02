@@ -1,0 +1,7 @@
+C:\dev\DllGameMaker\DllGameMaker\BaseTest\obj\Debug\BaseTest.csprojResolveAssemblyReference.cache
+C:\dev\DllGameMaker\DllGameMaker\BaseTest\bin\Debug\BaseTest.exe.config
+C:\dev\DllGameMaker\DllGameMaker\BaseTest\bin\Debug\BaseTest.exe
+C:\dev\DllGameMaker\DllGameMaker\BaseTest\bin\Debug\BaseTest.pdb
+C:\dev\DllGameMaker\DllGameMaker\BaseTest\bin\Debug\OpenTK.dll
+C:\dev\DllGameMaker\DllGameMaker\BaseTest\obj\Debug\BaseTest.exe
+C:\dev\DllGameMaker\DllGameMaker\BaseTest\obj\Debug\BaseTest.pdb

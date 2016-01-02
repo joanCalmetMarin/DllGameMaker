@@ -1,0 +1,11 @@
+C:\dev\DllGameMaker\DllGameMaker\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\dev\DllGameMaker\DllGameMaker\Test\bin\Debug\Test.exe.config
+C:\dev\DllGameMaker\DllGameMaker\Test\bin\Debug\Test.exe
+C:\dev\DllGameMaker\DllGameMaker\Test\bin\Debug\Test.pdb
+C:\dev\DllGameMaker\DllGameMaker\Test\bin\Debug\DllGameMaker.dll
+C:\dev\DllGameMaker\DllGameMaker\Test\bin\Debug\OpenTK.dll
+C:\dev\DllGameMaker\DllGameMaker\Test\bin\Debug\DllGameMaker.pdb
+C:\dev\DllGameMaker\DllGameMaker\Test\obj\Debug\Test.exe
+C:\dev\DllGameMaker\DllGameMaker\Test\obj\Debug\Test.pdb
+C:\dev\DllGameMaker\DllGameMaker\Test\bin\Debug\OpenTK.pdb
+C:\dev\DllGameMaker\DllGameMaker\Test\bin\Debug\OpenTK.xml
