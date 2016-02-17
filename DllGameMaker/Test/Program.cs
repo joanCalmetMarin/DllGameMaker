@@ -1,13 +1,16 @@
 ﻿using DllGameMaker;
+using System;
+using System.Collections.Generic;
+using DllGameMaker.Tools;
 
 namespace Test
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            ScreenControler test = new ScreenControler();
-            test.Run();
+            var Game = new Game();
         }
+        
     }
 }
