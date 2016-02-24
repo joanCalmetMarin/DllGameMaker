@@ -39,6 +39,7 @@
     <!-- A reference to the entire .NET Framework is automatically included -->
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="KeyBoardEvents.cs" />
     <Compile Include="Object.cs" />
     <Compile Include="ScreenControler.cs" />
     <Compile Include="Tools\GeometryTool.cs" />

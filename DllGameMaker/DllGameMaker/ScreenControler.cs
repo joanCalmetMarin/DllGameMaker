@@ -11,6 +11,11 @@ namespace DllGameMaker
         private List<Object> _inDoc;
 
         /// <summary>
+        /// use this events are optimized for make games
+        /// </summary>
+        public KeyBoardEvents KeyBoardEvents { get; private set; }
+
+        /// <summary>
         /// create a screen with selected width and heith
         /// </summary>
         /// <param name="w">width</param>
@@ -18,6 +23,7 @@ namespace DllGameMaker
         public ScreenControler(int w, int h) : base(w, h)
         {
             _inDoc=new List<Object>();
+            KeyBoardEvents = new KeyBoardEvents(this);
         }
         
         /// <summary>
